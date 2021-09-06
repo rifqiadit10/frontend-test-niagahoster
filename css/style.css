@@ -1,0 +1,343 @@
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1.4rem !important;
+    padding-left: 1.4rem !important;
+  }
+}
+
+.bi {
+  vertical-align: middle;
+  margin-right: 0.5rem;
+}
+
+hr {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #e4e4e4;
+}
+
+.text-highlight {
+  color: #008fee !important;
+  height: 0rem !important;
+}
+
+.bg-highlight {
+  background-color: #008fee !important;
+}
+
+.border-theme {
+  border-color: #0096EE !important;
+}
+
+.btn {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  border-radius: 25rem;
+  border: 2px solid black;
+}
+
+.btn:hover {
+  background-color: #008fee;
+  border: 2px solid #008fee;
+  color: white;
+}
+
+.btn-secondary {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  border-radius: 25rem;
+  border: 2px solid #008fee;
+  background-color: #008fee;
+}
+
+.btn-secondary:hover {
+  background-color: #008fee;
+  border: 2px solid #008fee;
+  color: white;
+}
+
+.btn-outline {
+  border: 2px solid #ffffff;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+}
+
+.container-fluid {
+  padding-left: 0rem;
+  padding-right: 0rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: #4c4c4c;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+}
+
+header h2 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+}
+
+header h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+header p {
+  font-family: "Montserrat", sans-serif;
+}
+
+.topnav .container {
+  padding-top: 0rem;
+}
+
+.topnav .container .row {
+  padding-top: 0rem;
+}
+
+.php-enviroments h5 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.paket-hosting {
+  margin-top: 6rem;
+  margin-bottom: 5rem;
+}
+
+.paket-hosting .paket-hosting-title h2 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+.paket-hosting .paket-hosting-title h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.paket-hosting .paket-hosting-items .card {
+  margin-top: 1rem;
+}
+
+.paket-hosting .paket-hosting-items .card .card-body {
+  padding-top: 0rem;
+  padding-right: 0rem;
+  padding-bottom: 1rem;
+  padding-left: 0rem;
+}
+
+.paket-hosting .paket-hosting-items .card .card-body h4 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+}
+
+.paket-hosting .paket-hosting-items .card .card-body p {
+  padding-top: 1rem;
+  vertical-align: middle;
+  margin-bottom: 0rem;
+  padding-bottom: 1rem;
+}
+
+.paket-hosting .paket-hosting-items .card .card-body .price {
+  font-family: "Montserrat", sans-serif;
+}
+
+.paket-hosting .paket-hosting-items .card .card-body .card-title {
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+  margin-bottom: 0rem;
+}
+
+.paket-hosting .paket-hosting-items .card .card-body .card-text {
+  margin-bottom: 0rem;
+  padding: 0rem;
+}
+
+.paket-hosting .paket-hosting-items .card .card-body .price-fix {
+  font-family: "Montserrat", sans-serif;
+}
+
+.paket-hosting .paket-hosting-items .card .card-body .price-fix span {
+  font-weight: bold;
+}
+
+.paket-hosting .paket-hosting-items .card .card-body .price-fix .big {
+  font-size: 4rem;
+  vertical-align: middle;
+}
+
+.powerful-limitphp h2 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.powerful-limitphp .card {
+  margin-top: 1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.powerful-limitphp .card .card-body {
+  padding-top: 0rem;
+  padding-right: 0rem;
+  padding-bottom: 0rem;
+  padding-left: 0rem;
+}
+
+.powerful-limitphp .card .card-body .table {
+  margin-bottom: 0rem;
+}
+
+.powerful-limitphp .highlight {
+  border-color: #008fee;
+}
+
+.semua-paket-hosting {
+  margin-top: 6rem;
+  margin-bottom: 5rem;
+}
+
+.semua-paket-hosting h2 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.semua-paket-hosting .semua-paket-hosting-items h5 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+.laravel {
+  margin-top: 6rem;
+  margin-bottom: 5rem;
+}
+
+.laravel h2 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.laravel .nb {
+  font-size: 0.7rem;
+}
+
+.modul-lengkap {
+  margin-top: 6rem;
+  margin-bottom: 5rem;
+}
+
+.modul-lengkap h2 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.linux-hosting {
+  margin-top: 6rem;
+  margin-bottom: 2rem;
+}
+
+.social-media {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #F7F7F7;
+}
+
+.social-media .container-fluid {
+  padding-left: 0rem;
+  padding-right: 0rem;
+}
+
+.social-media .container-fluid .row {
+  padding-left: 0rem;
+  padding-right: 0rem;
+}
+
+.social-media .container-fluid .row p {
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}
+
+.bantuan {
+  padding-top: 3.5rem;
+  padding-bottom: 4rem;
+  background-color: #00A2F3;
+}
+
+.bantuan h2 {
+  font-family: "Montserrat", sans-serif;
+  color: #F7F7F7;
+  margin-top: 1.5rem;
+  margin-bottom: 0rem;
+  line-height: 2rem;
+}
+
+.bantuan .container-fluid {
+  padding-left: 0rem;
+  padding-right: 0rem;
+}
+
+.bantuan .container-fluid .row {
+  padding-left: 0rem;
+  padding-right: 0rem;
+}
+
+.bantuan .container-fluid .row p {
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}
+
+.bantuan .container-fluid .row button {
+  margin-top: 1rem;
+}
+
+footer {
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+  background-color: #303030;
+}
+
+footer h2 {
+  font-family: "Montserrat", sans-serif;
+  color: #F7F7F7;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+  line-height: 0rem;
+}
+
+footer .container-fluid {
+  padding-left: 0rem;
+  padding-right: 0rem;
+}
+
+footer .container-fluid hr {
+  background-color: #292929;
+  margin-bottom: 1rem;
+}
+
+footer .container-fluid .p-footer {
+  font-size: 0.7rem;
+  color: #D8D8D8;
+  margin-top: 0rem;
+  margin-bottom: 0.5rem;
+}
+
+footer .container-fluid .row {
+  padding-left: 0rem;
+  padding-right: 0rem;
+}
+
+footer .container-fluid .row h5 {
+  color: #8E8E8E;
+  font-weight: bold;
+}
+
+footer .container-fluid .row p {
+  color: #D8D8D8;
+  margin-top: 0rem;
+  margin-bottom: 0.5rem;
+}
+
+footer .container-fluid .row .p-small {
+  font-size: 0.8rem;
+  color: #8E8E8E;
+}
+/*# sourceMappingURL=style.css.map */
